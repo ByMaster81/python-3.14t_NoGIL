@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-11-20 22:22:42",
+    "script_name": "monte-carlo.py",
+    "duration_seconds": 65.74914979934692,
+    "duration_single_core": 70.53475856781006,
+    "speedup_x": 1.07,
+    "peak_memory_mb": 43.2,
+    "total_points": 200000000,
+    "thread_count": 8,
+    "os_release": "6.17.8-2-cachyos",
+    "python_version": "3.14.0",
+    "machine": "x86_64",
+    "processor": "",
+    "gil_enabled": true
+}

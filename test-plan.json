@@ -1,0 +1,38 @@
+[
+    {
+        "description": "",
+        "script": "numpy-freeThread.py",
+        "python_exec": "python3.14t",
+        "gil_setting": 0
+    },
+    {
+        "description": "",
+        "script": "numpy-pure.py",
+        "python_exec": "python3.14t",
+        "gil_setting": 1
+    },
+    {
+        "description": "",
+        "script": "monte-carlo.py",
+        "python_exec": "python3.14t",
+        "gil_setting": 1
+    },
+    {
+        "description": "",
+        "script": "monte-carlo.py",
+        "python_exec": "python3.14t",
+        "gil_setting": 0
+    },
+    {
+        "description": "",
+        "script": "prime-test.py",
+        "python_exec": "python3.14t",
+        "gil_setting": 0
+    },
+    {
+        "description": "",
+        "script": "prime-test.py",
+        "python_exec": "python3.14t",
+        "gil_setting": 1
+    }
+]

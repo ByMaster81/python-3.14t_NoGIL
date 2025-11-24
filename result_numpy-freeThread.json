@@ -1,0 +1,23 @@
+{
+    "timestamp": "2025-11-20 22:19:36",
+    "duration_seconds": 30.65617871284485,
+    "peak_memory_mb": 629.16,
+    "script_name": "numpy-freeThread.py",
+    "matrix_size": 3000,
+    "repeat_count": 3,
+    "processor": "",
+    "machine": "x86_64",
+    "cpu_count_logical": 12,
+    "os_system": "Linux",
+    "os_release": "6.17.8-2-cachyos",
+    "python_version": "3.14.0",
+    "python_build": [
+        "main",
+        "Nov 19 2025 21:32:39"
+    ],
+    "python_compiler": "GCC 15.2.1 20250813",
+    "env_omp_threads": "6",
+    "env_openblas_threads": "6",
+    "env_mkl_threads": "6",
+    "gil_enabled": false
+}
